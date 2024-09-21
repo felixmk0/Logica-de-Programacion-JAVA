@@ -9,6 +9,7 @@ Se debe mostrar por pantalla la tabla de multiplicar del número que se haya int
 
 ### Ejemplo:
 ```
+Salida por consola:
 Intoduce el numero de la tabla de multiplicar:
 8
 
