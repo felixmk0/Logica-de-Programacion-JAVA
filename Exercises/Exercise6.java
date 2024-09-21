@@ -13,7 +13,6 @@ public class Exercise6 {
         System.out.println("Introduce el número de elementos (*) del cuadrado:");
         int e = scanner.nextInt();
 
-        // f = filas, e = elementos (*) y c = columnas
         for (int f = 1; f <= e; f++) {
             for (int c = 1; c <= e; c++) System.out.print("*");
             System.out.println();
