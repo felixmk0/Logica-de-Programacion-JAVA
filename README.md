@@ -7,6 +7,23 @@ Este es un repositorio que puedes usar para mejorar y practicar tu logica de pro
 ## Ejercicio 1
 Se debe mostrar por pantalla la tabla de multiplicar del número que se haya introducido por consola, utilizando la clase Scanner de java.util.
 
+###Ejemplo:
+```bash
+Intoduce el numero de la tabla de multiplicar:
+8
+
+8*0=0
+8*1=8
+8*2=16
+8*3=24
+8*4=32
+8*5=40
+8*6=48
+8*7=56
+8*8=64
+8*9=72
+8*10=80
+```
 
 ### Código:
 
