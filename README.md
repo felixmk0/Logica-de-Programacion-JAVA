@@ -92,3 +92,43 @@ public class Exercise2 {
 }
 ```
 </details>
+
+## Ejercicio 3
+El programa debe mostrar los números del 100 al 0, decrementándose de 4 en 4
+<details>
+  <summary>Haz clic aquí para ver una pista</summary>
+  Se puede conseguir fácilmente con un bucle ```for``` inverso.
+</details>
+
+
+### Ejemplo:
+Salida por consola:
+```
+100
+96
+92
+88
+84
+80
+76
+72
+...
+0
+```
+
+### Código:
+
+<details>
+  <summary>Haz clic aquí para ver el código</summary>
+
+```java
+public class Exercise3 {
+    public static void main(String[] args) {
+        for (int i = 100; i >= 0; i -= 4) {
+            System.out.println(i);
+        }
+    }
+}
+```
+</details>
+
