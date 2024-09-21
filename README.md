@@ -57,3 +57,36 @@ public class Exercise1 {
     }
 }
 ```
+
+## Ejercicio 2
+El programa debe mostrar en pantalla los números de 2 en 2, a partir del 50, hasta llegar al 100.
+
+### Ejemplo:
+Salida por consola:
+```
+50
+52
+54
+56
+58
+60
+62
+64
+...
+100
+```
+
+### Código:
+
+<details>
+  <summary>Haz clic aquí para ver el código</summary>
+
+```java
+public class Exercise2 {
+    public static void main(String[] args) {
+        for (int i = 50; i <= 100 ; i +=2) {
+            System.out.println(i);
+        }
+    }
+}
+```
