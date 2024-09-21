@@ -1,7 +1,11 @@
-# 50 Ejercicos de Logica de Programación con JAVA!
+![GitHub Repo stars](https://img.shields.io/github/stars/felixmk0/Logica-de-Programacion-JAVA)
+![GitHub watchers](https://img.shields.io/github/watchers/felixmk0/Logica-de-Programacion-JAVA)
+![GitHub forks](https://img.shields.io/github/forks/felixmk0/Logica-de-Programacion-JAVA)
 
-Este es un repositorio que puedes usar para mejorar y practicar tu logica de programación con JAVA. 
+# 50 Ejercicios de Lógica de Programación con JAVA
 
+Este repositorio contiene 50 ejercicios que he creado mientras aprendo a programar en Java. Son perfectos para practicar y mejorar tu lógica de programación. Te ayudarán a resolver problemas y a entender mejor cómo funciona la lógica de la programación.
+Ten en cuenta que algunos códigos pueden tener malas prácticas o no estar optimizados, ya que están basados en mi propio proceso de aprendizaje. 
 
 
 ## Ejercicio 1
