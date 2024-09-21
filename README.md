@@ -135,3 +135,33 @@ public class Exercise3 {
 ```
 </details>
 
+## Ejercicio 4
+De un array de un tamaño de 10 números, almacenar en otro array solo los números que estén entre 1 y 50. El nuevo array no debe contener ceros; solo deben estar los números que se encuentren entre 1 y 50 del array original.
+
+### Ejemplo:
+```
+int[] array = [40, 34, 80, 60, 90, 99, 51, 22, 11, 67, 101];
+int[] cleanedArray = [80, 60, 90, 99, 51];
+```
+
+### Código:
+
+<details>
+  <summary>Haz clic aquí para ver el código</summary>
+
+```java
+import java.util.Arrays;
+
+public class Exercise4 {
+    public static void main(String[] args) {
+        int[] array = {40, 34, 80, 60, 90, 99, 51, 22, 11, 101};
+        int[] newArray = new int[array.length];
+        for (int i = 0; i < array.length; i++) if (array[i] >= 50 & array[i] <= 100) newArray[i] = array[i];
+        int[] cleanedArray = Arrays.stream(newArray).filter(num -> num != 0).toArray();
+
+        System.out.println(Arrays.toString(cleanedArray));
+    }
+}
+```
+</details>
+
