@@ -10,7 +10,7 @@ Ten en cuenta que algunos códigos pueden tener malas prácticas o no estar opti
 
 
 ## Ejercicio 1
-Se debe mostrar por pantalla la tabla de multiplicar del número que se haya introducido por consola, utilizando la clase Scanner de java.util.
+El programa debe mostrar en pantalla la tabla de multiplicar del número que el usuario introduzca por consola, utilizando la clase ```Scanner``` de ```java.util```.
 
 ### Ejemplo:
 Salida por consola:
