@@ -165,3 +165,32 @@ public class Exercise4 {
 ```
 </details>
 
+## Ejercicio 5
+Llenar un array de 8 posiciones con la mitad de ceros y la mitad de unos (4 ceros y 4 unos).
+
+### Ejemplo:
+```
+int[] array = [0, 0, 0, 0, 1, 1, 1, 1];
+```
+
+### Código:
+
+<details>
+  <summary>Haz clic aquí para ver el código</summary>
+
+```java
+import java.util.Arrays;
+
+public class Exercise5 {
+    public static void main(String[] args) {
+        int[] array = new int[8];
+        for (int i = 0; i < array.length; i++) {
+            if (i < 4) array[i] = 0;
+            else array[i] = 1;
+        }
+        System.out.println(Arrays.toString(array));
+    }
+}
+```
+</details>
+
