@@ -33,4 +33,4 @@ public class Exercise1 {
         }
     }
 }
-``` </details> 
+```
