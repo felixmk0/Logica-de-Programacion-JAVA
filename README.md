@@ -57,6 +57,7 @@ public class Exercise1 {
     }
 }
 ```
+</details>
 
 ## Ejercicio 2
 El programa debe mostrar en pantalla los números de 2 en 2, a partir del 50, hasta llegar al 100.
@@ -90,3 +91,4 @@ public class Exercise2 {
     }
 }
 ```
+</details>
