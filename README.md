@@ -8,8 +8,8 @@ Este es un repositorio que puedes usar para mejorar y practicar tu logica de pro
 Se debe mostrar por pantalla la tabla de multiplicar del número que se haya introducido por consola, utilizando la clase Scanner de java.util.
 
 ### Ejemplo:
-```
 Salida por consola:
+```
 Intoduce el numero de la tabla de multiplicar:
 8
 
