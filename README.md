@@ -1,8 +1,34 @@
-﻿# Java-LogicaProgramacion
+# 50 Ejercicos de Logica de Programación con JAVA!
 
-![Exercise1 CodeSnap](https://github.com/user-attachments/assets/2c9f6794-b143-4b1f-9769-def563688a11)
+Este es un repositorio que puedes usar para mejorar y practicar tu logica de programación con JAVA. 
 
-![Exercise2 CodeSnap](https://github.com/user-attachments/assets/0926af82-3964-4b70-b407-c9729b6d7f72)
 
-![Exercise3 CodeSnap](https://github.com/user-attachments/assets/1a958a85-bd39-4d55-ad71-4ac038cf9716)
 
+## Ejercicio 1
+Se debe mostrar por pantalla la tabla de multiplicar del número que se haya introducido por consola, utilizando la clase Scanner de java.util.
+
+
+### Código:
+
+
+```java
+import java.util.Scanner;
+
+public class Exercise1 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Intoduce el numero de la tabla de multiplicar:");
+        int numTabla = scanner.nextInt();
+        if (numTabla <= 0) {
+            System.out.println("ERROR: Debes introducir un numero mayor que 0!!");
+            return;
+        }
+
+        for (int i = numTabla; i == numTabla; i++) {
+            for (int j = 0; j <= 10; j++) {
+                System.out.println(i + "*" + j + "=" + i * j);
+            }
+        }
+    }
+}
+```
