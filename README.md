@@ -1,7 +1,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/felixmk0/Logica-de-Programacion-JAVA)
 ![GitHub watchers](https://img.shields.io/github/watchers/felixmk0/Logica-de-Programacion-JAVA)
 ![GitHub forks](https://img.shields.io/github/forks/felixmk0/Logica-de-Programacion-JAVA)
-
 ### Si quieres apoyar el repositorio, ¡deja una ⭐!
 
 # 50 Ejercicios de Lógica de Programación con JAVA
