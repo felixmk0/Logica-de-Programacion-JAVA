@@ -97,7 +97,10 @@ public class Exercise2 {
 El programa debe mostrar los números del 100 al 0, decrementándose de 4 en 4
 <details>
   <summary>Haz clic aquí para ver una pista</summary>
-  Se puede conseguir fácilmente con un bucle ```for``` inverso.
+  
+  ```
+  Se puede conseguir fácilmente con un bucle "for" inverso.
+  ```
 </details>
 
 
