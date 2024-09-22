@@ -24,6 +24,8 @@ Ten en cuenta que algunos códigos pueden tener malas prácticas o no estar opti
 
 [Ejercicio 7 - Notas de alumnos](#ejercicio-7)
 
+[Ejercicio 8 - Números comprendidos entre 2 números con Arrays](#ejercicio-8)
+
 
 ## Ejercicio 1
 El programa debe mostrar en pantalla la tabla de multiplicar del número que el usuario introduzca por consola, utilizando la clase ```Scanner``` de ```java.util```.
