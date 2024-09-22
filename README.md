@@ -194,3 +194,44 @@ public class Exercise5 {
 ```
 </details>
 
+## Ejercicio 6
+Dibuja un cuadrado con relleno (*), que nos pida su tamaño por entrada a través de la clase ```Scanner``` de ```java.util```.
+
+### Ejemplo:
+Salida por consola:
+```
+Introduce el número de elementos (*) del cuadrado:
+6
+
+******
+******
+******
+******
+******
+******
+```
+
+### Código:
+
+<details>
+  <summary>Haz clic aquí para ver el código</summary>
+
+```java
+import java.util.Scanner;
+
+public class Exercise6 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Introduce el número de elementos (*) del cuadrado:");
+        int e = scanner.nextInt();
+
+        for (int f = 1; f <= e; f++) {
+            for (int c = 1; c <= e; c++) System.out.print("*");
+            System.out.println();
+        }
+    }
+}
+```
+</details>
+
