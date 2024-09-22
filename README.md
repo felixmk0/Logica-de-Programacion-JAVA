@@ -11,12 +11,19 @@ Ten en cuenta que algunos códigos pueden tener malas prácticas o no estar opti
 ## Índice de Ejercicios
 
 [Ejercicio 1 - Tabla de multiplicar](#ejercicio-1)
+
 [Ejercicio 2 - Números de 2 en 2](#ejercicio-2)
+
 [Ejercicio 3 - Números del 100 al 0](#ejercicio-3)
+
 [Ejercicio 4 - Filtrar array](#ejercicio-4)
+
 [Ejercicio 5 - Array de ceros y unos](#ejercicio-5)
+
 [Ejercicio 6 - Dibujar cuadrado](#ejercicio-6)
+
 [Ejercicio 7 - Notas de alumnos](#ejercicio-7)
+
 
 ## Ejercicio 1
 El programa debe mostrar en pantalla la tabla de multiplicar del número que el usuario introduzca por consola, utilizando la clase ```Scanner``` de ```java.util```.
