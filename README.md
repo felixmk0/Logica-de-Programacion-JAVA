@@ -8,6 +8,15 @@
 Este repositorio contiene 50 ejercicios que he creado mientras aprendo a programar en Java. Son perfectos para practicar y mejorar tu lógica de programación. Te ayudarán a resolver problemas y a entender mejor cómo funciona la lógica de la programación.
 Ten en cuenta que algunos códigos pueden tener malas prácticas o no estar optimizados, ya que están basados en mi propio proceso de aprendizaje. 
 
+## Índice de Ejercicios
+
+1. [Ejercicio 1 - Tabla de multiplicar](#ejercicio-1)
+2. [Ejercicio 2 - Números de 2 en 2](#ejercicio-2)
+3. [Ejercicio 3 - Números del 100 al 0](#ejercicio-3)
+4. [Ejercicio 4 - Filtrar array](#ejercicio-4)
+5. [Ejercicio 5 - Array de ceros y unos](#ejercicio-5)
+6. [Ejercicio 6 - Dibujar cuadrado](#ejercicio-6)
+7. [Ejercicio 7 - Notas de alumnos](#ejercicio-7)
 
 ## Ejercicio 1
 El programa debe mostrar en pantalla la tabla de multiplicar del número que el usuario introduzca por consola, utilizando la clase ```Scanner``` de ```java.util```.
