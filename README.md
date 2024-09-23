@@ -28,6 +28,11 @@ Ten en cuenta que algunos códigos pueden tener malas prácticas o no estar opti
 
 [Ejercicio 9 - Marco de números con Matrizes](#ejercicio-9)
 
+[Ejercicio 10 - Insertar en el medio de la Matriz](#ejercicio-10)
+
+[Ejercicio 11 - Insertar cuadrado dentro de Matriz](#ejercicio-11)
+
+
 ## Ejercicio 1
 El programa debe mostrar en pantalla la tabla de multiplicar del número que el usuario introduzca por consola, utilizando la clase ```Scanner``` de ```java.util```.
 
